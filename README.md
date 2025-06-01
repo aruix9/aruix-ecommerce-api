@@ -1,12 +1,4 @@
-Here's a clear and structured documentation for the **Aruix Ecommerce API**:
-
----
-
-# Aruix Ecommerce API Documentation
-
-### Version: CURRENT
-
----
+# Ecommerce API Documentation
 
 ## Base URL
 
@@ -437,7 +429,3 @@ Bearer Token
 `DELETE /reviews/{reviewId}`
 **Authorization:**
 Bearer Token
-
----
-
-Let me know if any section needs to be updated or expanded!
